@@ -1,1 +1,1 @@
-print("Copyright 2018 Pruthvi Shrikaanth")
+print("Copyright 2018 Pruthvi Shrikaanth©")
