@@ -1,1 +1,1 @@
-document.write("Copyright 2018 Pruthvi Shrikaanth");
+document.write("Copyright 2018 Pruthvi Shrikaanth©");
