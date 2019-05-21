@@ -2,8 +2,8 @@
 My first official project on GitHub. <br>
 Pruthvi Shrikaanth copyright 2018© <br>
 Software version 1.0 <br>
-Terms and Condititions 1.0 <br>
-If you DO NOT agree with the terms and conditions then you may not/no longer use this software. This software is provided on an AS IS basis. It is designed as an ROM (a read-only-memory) and is subject to change by the owner without warning, as well as these Terms and Conditions. It may not be edited/modified without the owner's prior permission. If permission is granted, the owner's credentials and editor's credentials must both be specified, specifying what has been edited. If using this software, the owner's credentials must be provided correctly. ALL rights are reserved by the owner. <br>
+Terms and Condititions 1.1 <br>
+If you DO NOT agree with the terms and conditions then you may not/no longer use this software. This software is provided on an AS IS basis. It is designed as an ROM (a read-only-memory) and is subject to change by the owner without warning, as well as these Terms and Conditions. It may not be edited/modified without the owner's prior permission, either by hand or by email. If permission is granted, the owner's credentials and editor's credentials must both be specified, specifying what has been edited. If using this software, the owner's credentials must be provided correctly. ALL rights are reserved by the owner. <br>
 Privacy Policy 1.0 <br>
 If you DO NOT agree with the privacy policy then you may not/no longer use this software. We will never use any data that we may collect in the future to identify an individual (we collect anonymous data and that is ONLY with your consent). We collect data to improve our products. Currently, we do not collect any data. The terms and conditions are subject to change without any warning, likewise the privacy policy. We may also withdraw our software from the public without any warning. All rights are reserved by the owner. <br>
 Feedback <br>
